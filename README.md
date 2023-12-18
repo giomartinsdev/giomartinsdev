@@ -21,8 +21,7 @@ Olá, eu sou Giovanni Martins, um entusiasta de tecnologia apaixonado por automa
 ## Como Entrar em Contato
 
 - LinkedIn: [Giovanni Martins](https://www.linkedin.com/in/giovannidealmeidamartins/)
-- Twitter: [Seu Twitter](link_do_seu_twitter)
-- Email: seu@email.com
+- Email: gioamartins.dev@gmail.com
 
 ## Contribuições
 
