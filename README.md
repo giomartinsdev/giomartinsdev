@@ -2,7 +2,7 @@
 
 ## Sobre Mim
 
-Olá, eu sou Giovanni Martins, um entusiasta de tecnologia apaixonado por automações, resolver problemas e encontrar soluções. Atualmente, estou *Estudando muito!*.
+Olá, eu sou Giovanni Martins, um entusiasta de tecnologia apaixonado por automações, resolver problemas e encontrar soluções. Atualmente, estou *Estudando muito!*
 
 ## Tecnologias
 
