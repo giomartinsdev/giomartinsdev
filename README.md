@@ -1,7 +1,7 @@
 # Bem-vindo ao Meu Perfil do GitHub! 
 
 ## Sobre Mim
-Olá, eu sou Giovanni Martins, um entusiasta de tecnologia apaixonado por automações, resolver problemas e encontrar soluções. Atualmente, estou *Estudando muito!* e me aprofundando em tecnologias como **TypeScript, C#, Java, AWS e Kafka**. 
+Olá, eu sou Giovanni Martins, um entusiasta de tecnologia apaixonado por automações, resolver problemas e encontrar soluções. 
 
 ## Tecnologias
 - **Linguagens:**
