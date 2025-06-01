@@ -11,8 +11,8 @@ Hello, I'm Giovanni Martins, a technology enthusiast passionate about automation
   - ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
   - ![PHP](https://shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-## Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=giomartinsdev&show_icons=true&theme=radical&hide_rank=true&hide=issues&custom_title=Estat%C3%ADsticas%20do%GitHub)
+## Github Stats
+![Github Stats](https://github-readme-stats.vercel.app/api?username=giomartinsdev&show_icons=true&theme=radical&hide_rank=true&hide=issues&custom_title=Estat%C3%ADsticas%20do%GitHub)
 
 ## How to get in contact
 - LinkedIn: [Giovanni Martins](https://www.linkedin.com/in/giovannidealmeidamartins/)
