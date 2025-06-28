@@ -68,7 +68,7 @@
 
 - [**Banking Project**](https://github.com/giomartinsdev/banking-in-dotnet):  
   A .NET-based banking management system with account operations, transaction history, and basic banking features. Designed as a learning project for object-oriented programming and C# patterns.  
-  **Technologies:** C#, .NET, Entity Framework
+  **Technologies:** C#, .NET, Entity Framework, DDD, Aspire
 
 - [**JoaoPechinchaBot**](https://github.com/giomartinsdev/JoaoPechinchaBot):  
   Telegram bot that helps users find and track the best deals and discounts on various products in online stores, with price monitoring and notification features.  
