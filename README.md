@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Gio 👋</h1>
 
 <p align="center">
-  <img src="https://github.com/giomartinsdev.png" width="120" style="border-radius:50%" alt="Avatar"/>
+  <img src="https://thumb.ac-illust.com/c2/c2a47baa27bb2802481384c10b92e3a7_t.jpeg" width="120" style="border-radius:50%" alt="Avatar"/>
 </p>
 
 <!-- Technologies under avatar -->
